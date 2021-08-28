@@ -7,8 +7,7 @@
 
     <ItemGroup>
       <PackageReference Include="StyleCop" Version="6.2.0" />
-      <PackageReference Include="StyleCop.CSharp" Version="6.2.0" />
-      <PackageReference Include="StyleCop.CSharp.Rules" Version="6.2.0" />
+      <PackageReference Include="Telegram.Bot" Version="16.0.2" />
     </ItemGroup>
 
 </Project>
